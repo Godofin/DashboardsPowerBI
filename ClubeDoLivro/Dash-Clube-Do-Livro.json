@@ -1,0 +1,7 @@
+{
+    "name": "Dash Livro",
+    "dataColors": ["#1fcb4f", "#ffc01e", "#A1E3CB", "#BAEDBD", "#95A4FC", "#C6C7F8", "#E5ECF6", "#FFE999"],
+    "background":"#FFFFFF",
+    "foreground": "#000000",
+    "tableAccent": "#000000"
+}
